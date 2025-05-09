@@ -1,0 +1,20 @@
+# Directories
+/.git/
+/.github/
+/assets/
+/config/
+/scripts/
+
+# Files
+.gitignore
+*.md
+LICENSE-*
+committed.toml
+cliff.toml
+deny.toml
+CNAME
+rustfmt.toml
+_config.yml
+codecov.yml
+.editorconfig
+.codespellignore
